@@ -1,7 +1,7 @@
 name: Isoltec
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.64961
+layout_spectrum: 0.07042
+typography_spectrum: 0.77845
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#000000'
     - '#0000ff'
     - '#0055aa'
-  brandStrength: 0.5625
-  lightness: 1
-  saturation: 0.125
-  rhythmicContrast: 0.5
+  brandStrength: 0.125
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
