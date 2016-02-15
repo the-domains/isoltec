@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Isoltec]]></title>
         <description><![CDATA[Isoltec]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/isoltec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 21:10:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 19:02:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/isoltec/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ART. 9  OMAI 3/2011]]></title>
+            <description><![CDATA[<article><h1>ART. 9  OMAI 3/2011</h1><p>(1) Avizele de securitate la incendiu solicitate prin certificatele de urbanism în vederea emiterii autorizaţiei de construire se eliberează pe baza următoarelor documente:a) cerere-tip – două exemplare;b) certificatul de urbanism – două exemplare în copie;</p></article>]]></description>
+            <link>https://thegrid.ai/isoltec/5e16424f-f2c2-4101-bf58-d8ee5cd8114c/index.html</link>
+            <guid isPermaLink="false">5e16424f-f2c2-4101-bf58-d8ee5cd8114c</guid>
+            <pubDate>Mon, 15 Feb 2016 19:02:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Despre Noi]]></title>
             <description><![CDATA[<article><h1>Despre Noi</h1><p> Firma Isoltec Service infintata in 2004 avand ca principal obiect de activitate inginerie si securitatea la incendiu si-a propus sprijinirea agentilor economici in alegerea celor mai bune solutii pentru realizarea unor investitii in pricipal in domeniul produselor petroliere, proiectarea si autorizarea statiilor de distributie carburanti si autogaz, statiilor de imbuteliere si depozitelor de GPL.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24387dd29121c568c573c0734f518de73b2e8aff.png"></article>]]></description>
-            <link>undefineddespre-noi/index.html</link>
+            <link>https://thegrid.ai/isoltec/despre-noi/index.html</link>
             <guid isPermaLink="false">a4bf309a-ec55-4bf1-8784-5d942246344f</guid>
             <pubDate>Sun, 14 Feb 2016 21:09:46 GMT</pubDate>
         </item>
